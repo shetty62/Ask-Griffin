@@ -93,6 +93,6 @@ You will be asked to name your service - it doesn't matter as long as it is all 
 
 18) Now you should be good - click on your link from above and play around with it! Any time you want to add new content, just put the new documents in the same documents folder you originally used, run ChopDocuments and EmbedDocuments again, and redeploy as in step 15.  The code automatically adds your new documents to the already-embedded text so you only have to pay for embeddings once.
 
-19) We do not have any way of making users log in at this stage, so in theory your site is open to anyone who has a browser and the link.  We are building a front-end and hosted server space here at Rotman, with users log-in, to solve this problem and the annoyance of needing your own cloud server.  You may want to go to billing in your OpenAI and Google Cloud accounts and set a spending cap just in case.
+19) We do not have any way of making users log in at this stage, so in theory your site is open to anyone who has a browser and the link. You may want to go to billing in your OpenAI and Google Cloud accounts and set a spending cap just in case.
 
 20) What if you have two separate applications you want to use this tool for?  Just create a second root folder and do everything else as above!  You'll wind up with a second deployed app custom for your second application.
