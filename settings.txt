@@ -1,0 +1,8 @@
+classname=Griffith Foods Expert System Intro
+professor=John Burr
+assistantname=Griffith Foods Expert System
+assistants=Purdue Student Consultant Team
+classdescription=Fall 2023 Experiential Learning Initiative at Purdue
+instructions=I am an experimental expert system for Griffith Foods.  I have been trained with all of your documents, manuals, etc. I am generally truthful, but be aware that there is a large language model in the background and hallucinations are possible. The more precise your question, the better an answer you will get. If "an error occurs while processing", ask your question again: the servers we use to process these answers are also in beta.
+num_chunks=8
+filedirectory=Documents
